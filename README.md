@@ -9,3 +9,4 @@ ooooooooooooooooooooooooooo
 
 
 girhubon lett irva
+ez meg lokalisan lett irva
