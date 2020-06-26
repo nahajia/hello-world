@@ -2,5 +2,4 @@
 hello description
 
 
-ez egy változtatott fajl
-zzzzzzzzzzzzzzzzzz
+ez zzzzzzzzzzzzzzzzzz
