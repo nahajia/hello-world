@@ -13,4 +13,6 @@ ez meg lokalisan lett irva
 
 uj verzio
 lokalisan
-ujverzio2
+
+
+uj 3
