@@ -23,3 +23,5 @@ iiiiiiiiiiiiiiiiiii
 jjjjjjjjjjjjjjjjjjj
 alma
 korte
+
+ez vscodeban lett irva
